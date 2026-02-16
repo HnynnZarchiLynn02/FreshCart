@@ -1,0 +1,7 @@
+{
+  "name": "FreshCart Grocery Manager",
+  "description": "A smart, minimal grocery shopping list app featuring intelligent item suggestions, categorization, and persistent storage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
